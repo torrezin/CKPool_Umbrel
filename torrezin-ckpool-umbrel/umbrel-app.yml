@@ -1,9 +1,9 @@
 manifestVersion: 1
 id: torrezin-ckpool-umbrel
 category: Bitcoin
-name: CKPool Solo Umbrel
+name: CKPool Umbrel
 version: "1.0.0"
-tagline: Solo Mining Poole
+tagline: Solo Mining Pool
 description: >-
   CKPool is a high-performance, lightweight Bitcoin mining pool server 
   designed for efficiency and scalability. It provides stratum mining 
@@ -14,7 +14,7 @@ dependencies:
   - bitcoin
 repo: https://github.com/torrezin/CKPool_Umbrel
 support: https://github.com/torrezin/CKPool_Umbrel
-port: 3334
+port: 5008
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
