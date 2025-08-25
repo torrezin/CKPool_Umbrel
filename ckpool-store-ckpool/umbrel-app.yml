@@ -1,0 +1,35 @@
+manifestVersion: 1
+id: ckpool-store-ckpool
+category: mining
+name: CKPool
+version: "1.0.0"
+tagline: High-performance Bitcoin mining pool software
+description: >-
+  CKPool is a high-performance, lightweight Bitcoin mining pool server 
+  designed for efficiency and scalability. It provides stratum mining 
+  protocol support with advanced features for pool operators.
+  
+  Key Features:
+  - High-performance stratum server for Bitcoin mining
+  - PostgreSQL database backend for statistics and user management
+  - Web-based monitoring interface
+  - Variable difficulty adjustment
+  - Support for multiple concurrent miners
+  - Comprehensive logging and analytics
+  
+  Perfect for running your own Bitcoin mining pool on Umbrel!
+
+developer: Con Kolivas
+website: https://bitbucket.org/ckolivas/ckpool
+dependencies: []
+repo: https://bitbucket.org/ckolivas/ckpool
+support: https://bitbucket.org/ckolivas/ckpool/issues
+port: 3334
+gallery:
+  - 1.jpg
+  - 2.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Community
+submission: https://github.com/your-username/ckpool-umbrel-store
