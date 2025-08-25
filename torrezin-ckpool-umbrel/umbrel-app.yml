@@ -16,7 +16,6 @@ repo: https://github.com/torrezin/CKPool_Umbrel
 support: https://github.com/torrezin/CKPool_Umbrel
 port: 5008
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   first release - work in progress
 path: ""
