@@ -2,6 +2,7 @@ manifestVersion: 1
 id: torrezin-ckpool-umbrel
 category: Bitcoin
 name: CKPool Umbrel
+icon: https://raw.githubusercontent.com/yanir99/ckpool-umbrel/main/yanir99-ckpool-solo/ckpool-umbrel-logo.png
 version: "1.0.0"
 tagline: Solo Mining Pool
 description: >-
