@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: ckpool-store-ckpool
+id: ckpool-umbrel
 category: mining
 name: CKPool
 version: "1.0.0"
@@ -21,7 +21,7 @@ description: >-
 
 developer: Con Kolivas
 website: https://bitbucket.org/ckolivas/ckpool
-dependencies: []
+dependencies: - bitcoin
 repo: https://bitbucket.org/ckolivas/ckpool
 support: https://bitbucket.org/ckolivas/ckpool/issues
 port: 3334
